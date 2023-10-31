@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+            <li><h1>FRANÇA</h1>
+            <img src="./imagens/franca.png">
+            <h3>Local: Paris</h3>
+            <img src="./imagens/paris.jpg"></li><br><br><br>
+            <hr size="10" color="#000000">
+            <li><h1>ITÁLIA</h1>
+            <img src="./imagens/italia.png">
+            <h3>Local: Roma</h3>
+            <img src="./imagens/roma.jpg"></li><br><br><br>
+            <hr size="10" color="#000000">
+            <li><h1>INGLATERRA</h1>
+            <img src="./imagens/inglaterra.png">
+            <h3>Local: Londres</h3>
+            <img src="./imagens/londres.jpg"></li><br><br><br>
+            <hr size="10" color="#000000">
+            <li><h1>ALEMANHA</h1>
+            <img src="./imagens/alemanha.png">
+            <h3>Local: Berlin</h3>
+            <img src="./imagens/berlim.jpg"></li><br><br><br>
+    </ul>
+</body>
+</html>
